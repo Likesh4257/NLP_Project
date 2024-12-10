@@ -1,0 +1,6 @@
+The above provided videos are the testing datasets that we have used for the digital image processing part of our project.
+The main dataset is extremely large to be shared.
+
+The hyp.scratch.custom.yaml file consists the yolo (You Only Look Once) model which is an object detection model which plays an important role in our project. It is a large model so we have imported the part of the model which is relevant to our project. Along with the yolo model this file consists of the weights which are the hyper parameters which have been derived by us till now by experimenting for the model being used. These parameters may change further as we progress through our project.
+
+The coco.yaml file produces the image dataset link (http://cocodataset.org) which is being used for the training of the first part of our project which involves training a image processing model.
